@@ -1,0 +1,32 @@
+{
+  "name": "subway",
+  "description": "",
+  "version": "0.0.1",
+  "author": {
+    "name": "JackeyChen",
+    "email": "jziwenchen@gmail.com"
+  },
+  "contributors": [
+  ],
+  "dependencies": {
+    "apn": "1.2.6",
+    "connect": "2.7.6",
+    "express": "3.2.0",
+    "formidable": "1.0.13",
+    "mysql": "2.0.0-alpha8",
+    "nodemon": "0.7.6",
+    "node-promise": "0.5.4",
+    "underscore": "1.4.4",
+    "step": "0.0.5",
+    "node-uuid": "1.4.0",
+    "send": "0.1.0",
+    "optimist": "0.6.0",
+    "http-proxy": "0.10.3"
+  },
+  "keywords": [
+  ],
+  "main": "index",
+  "engines": {
+    "node": ">=0.6.6"
+  }
+}
